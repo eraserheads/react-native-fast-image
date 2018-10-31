@@ -1,4 +1,4 @@
-<h1>Fix #import \<React/*\> </h1>
+<h1>Fix #import &lt;React/*&gt; </h1>
 
 <h1 align="center">
   🚩 FastImage
